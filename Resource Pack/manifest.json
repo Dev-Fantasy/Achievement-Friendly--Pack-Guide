@@ -15,8 +15,6 @@
         }
     ],
     "metadata": {
-        "product_type": "addon",
-        "authors": ["Your Name"],//It's not important so you can skip it.
-        "license": "All Rights Reserved"//It's not important so you can skip it.
+        "product_type": "addon"
     }
 }
