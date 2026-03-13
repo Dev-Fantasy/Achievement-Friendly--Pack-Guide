@@ -55,9 +55,10 @@ Keep your world set to Survival with Allow Cheats: OFF. Even if you're the host,
 · Cheats are not enabled in the world.
 · Test by loading the world and checking if the achievement icon is still unlocked.
 
-🎉 Good Luck!
+🎉 You're Ready!
 
-Now you can enjoy custom addons without losing your hard-earned achievements. Share this guide with anyone who's ever been frustrated by sudden achievement loss – together we can keep our worlds fun AND rewarding!
+Now you can enjoy custom addons without losing your achievements. Share this guide with others who might be struggling – together we can keep our worlds fun and rewarding.
+
 
 Main contributor: NeoPhinix
 Revised by: VENLARK
