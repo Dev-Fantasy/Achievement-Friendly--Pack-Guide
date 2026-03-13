@@ -49,11 +49,11 @@ Keep your world set to Survival with Allow Cheats: OFF. Even if you're the host,
 
 ✅ Quick Checklist
 
-· Both behavior and resource packs have "product_type": "addon" in their manifests.
-· "format_version" is 2 or higher.
-· Experimental features are disabled in world settings.
-· Cheats are not enabled in the world.
-· Test by loading the world and checking if the achievement icon is still unlocked.
+- Both behavior and resource packs have "product_type": "addon" in their manifests.
+- "format_version" is 2 or higher.
+- Experimental features are disabled in world settings.
+- Cheats are not enabled in the world.
+- Test by loading the world and checking if the achievement icon is still unlocked.
 
 🎉 You're Ready!
 
