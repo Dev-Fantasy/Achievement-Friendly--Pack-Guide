@@ -1,8 +1,8 @@
-🏆 Why Do Achievements Turn Off in Some Addons? (And How to Fix It!)
+### 🏆 Why Do Achievements Turn Off in Some Addons? (And How to Fix It!)
 
 If you've ever installed an addon in Minecraft Bedrock and suddenly noticed achievements are disabled, you're not alone. Here's why it happens and how to make any addon achievement-friendly.
 
-🔍 Why Achievements Turn Off
+### 🔍 Why Achievements Turn Off
 
 Minecraft disables achievements when it detects something that could give an unfair advantage or modify the game in a way that isn't "vanilla." The most common triggers are:
 
@@ -11,7 +11,7 @@ Minecraft disables achievements when it detects something that could give an unf
 - Cheats are turned on in the world settings (either manually or via command blocks).
 - The world was created as a template with locked game rules.
 
-🛠️ How to Make an Addon Achievement-Friendly
+### 🛠️ How to Make an Addon Achievement-Friendly
 
 1️⃣ Add the Magic Line to Both Manifests
 
